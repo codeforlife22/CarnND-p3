@@ -79,7 +79,7 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes:
 *Node that all the params were adopted from the lecture. 
-
+```text
 Layer (type)                 Output Shape              Param #    
 =================================================================
 cropping2d_1 (Cropping2D)    (None, 65, 320, 3)        0         
@@ -107,7 +107,7 @@ dense_3 (Dense)              (None, 1)                 85
 Total params: 732,451
 Trainable params: 732,451
 Non-trainable params: 0
-
+```
 #### 3. Creation of the Training Set & Training Process
 In addition to the sample data provided by 
 
