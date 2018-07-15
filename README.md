@@ -117,7 +117,6 @@ I then recorded the vehicle recovering from the left side and right sides of the
 
 To augment the data sat, I also flipped images and angles thinking that this would help with the left/right turn bias. For example, here is an image that has then been flipped:
 
-![alt text][image6]
 ![alt text][image7]
 
 After the collection process, I had around 40k number of data points.
