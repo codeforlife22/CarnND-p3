@@ -108,10 +108,9 @@ Total params: 732,451
 Trainable params: 732,451
 Non-trainable params: 0
 ```
-#### 3. Creation of the Training Set & Training Process
-In addition to the sample data provided by 
+#### 3. Creation of the Training Set & Training Process 
 
-To capture good driving behavior, I first recorded two laps on track one using center lane driving and one lap in reverse direction. 
+To capture good driving behavior, in addition to the sample data provided by Udacity, I first recorded two laps on track one using center lane driving and one lap in reverse direction. 
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to recover from off-track conditions. 
 
